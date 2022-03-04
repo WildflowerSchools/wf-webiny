@@ -1,0 +1,15 @@
+{
+  "name": "@extensions/pb-element-menu",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/styled": "10.3.0",
+    "@webiny/app-page-builder": "5.23.1",
+    "@webiny/ui": "5.23.1",
+    "@webiny/validation": "5.23.1",
+    "classnames": "^2.2.6",
+    "emotion": "10.0.27",
+    "react": "^16.14.0"
+  }
+}
